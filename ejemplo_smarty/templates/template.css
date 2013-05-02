@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: #CCC;
+}
+
+.general{
+	font-family:Verdana, Geneva, sans-serif;
+	color:#003;
+	font-size:12px;
+	padding:5px;
+}
+
+.botones{
+	background-color:#888;
+}
+
+.datos{
+	background-color:#666;
+	border:none;
+}
