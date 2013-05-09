@@ -1,0 +1,20 @@
+
+ * Autor: Gonzalo Andres Vergara Rojas,
+ * Fecha: Diciembre 2009
+ * Correo: webmaster@andresvergara.cl
+ * @gnzvergara
+   w w w . a n d r e s v e r g a r a . c l
+
+
+=============
+ Modulo Notas
+============== 
+- Este modulo se creo para ser utilizado en una plataforma educativa, en este caso DOKEOS, NO siendo un modulo nativo de dokeos
+siendo que actua de manera independiente con respecto a Dokeos, sin embargo utiliza la base de datos de Dokeos, para escribir
+en sus tablas y utilizar su base de datos para la autentificacion de este mismo y otras funciones como almacenar las notas de una
+asignatura.
+
+Este codigo fue un proyecto que se realizo para una tesis de titulo, su proposito es completamente didactico, para mas informacion
+porfavor contacta al creador y webmaster de andresvergara.cl
+
+webmaster@andresvergara.cl
